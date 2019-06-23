@@ -8,7 +8,7 @@ if [[ $USER -ne "root" ]]; then
 
 #If it is being run as root, check to make sure
 #the user understands what is happening.
-else;
+else
 	echo "The program 'later' will be installed to /usr/local/bin/"
 	read -r -p "Are you okay with that? [y/n] " response
 	case "$response" in
