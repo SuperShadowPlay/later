@@ -7,10 +7,12 @@ If you want to belittle it, it's a glorified way to
 use the `sleep` command. As such, when you input time,
 format it the same way (3s, 24m, 1d, etc.).
 
-## Install
+## Install/Uninstall
 Clone this repository, and run `bash install.sh` as root.
 It copies the included `later.sh` into /usr/local/bin/
 and makes it executable.
+
+To uninstall, run the `bash install.sh` command again.
 
 ## Usage
 
