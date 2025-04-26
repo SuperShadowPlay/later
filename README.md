@@ -7,6 +7,12 @@ If you want to belittle it, it's a glorified way to
 use the `sleep` command. As such, when you input time,
 format it the same way (3s, 24m, 1d, etc.).
 
+## Archival
+**This repository is years old and is a project I made as a young teenager.** I have fond memories of hastily
+typing up a bash script on my phone's terminal, so this will remain a public archive as a memento to my early days on GitHub.
+
+Do not expect this program to feature any useful functionality, no matter how cute the memories.
+
 ## Install/Uninstall
 Clone this repository, and run `bash install.sh` as root.
 It copies the included `later.sh` into /usr/local/bin/
